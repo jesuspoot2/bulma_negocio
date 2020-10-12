@@ -1,0 +1,8 @@
+{
+    "name": "jesus/investigar",
+    "description": "mi negocio web",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "4.5.2"
+    }
+}
